@@ -1,5 +1,5 @@
 # Bank-System
-Banka Müşteri Takip Sistemi Ödev Açıklaması (Homework Information)
+Banka Müşteri Takip Sistemi Ödev Açıklaması (Homework Description)
 Sistem içerisindeki her bir müşteri hesap no, isim, soyadı, telefon numarası ve bakiye bilgisini içerisinde barındıran bir kayıtla (struct) temsil edilecektir. 
 İlgili müşteri kayıtları rasgele erişimli .dat uzantılı bir dosyada saklanacaktır. Bu dosyada hesap numaraları 1-100 arası özgün değerler alıp, hesap numaralarının, aynı zamanda dosyanın kayıt numarası olmasını sağlanacaktır. Yani 34 hesap numarasına sahip müşterinin kayıttı rasgele erişimli dosyada 34. kayıt olmalıdır. Bu kayıta kadar olan (veya devamında bulunan ) boş (henüz girişi yapılmamış) müşteri kayıtlarının boş olduğunu anlayabilmek için, boş kayıtlarda müşteri numarasına 1-100 aralığında farklı bir değer atanabilir. Örneğin “-1” boş kayıtları temsil edebilmek için kullanılabilir. 
 Programınız dosyayı sıfırdan oluşturma (program ilk defa açıldığında ve exe’nin yanında herhangi bir .dat uzantılı dosya yok ise), yazılmış veriyi güncelleme (güncelleme işlemi bakiye üzerine ekleme veya çıkarma yapılarak olacaktır.), yeni kayıt oluşturma, var olan kayıttı silme, istenen kayıttı ekrana getirme işlemlerini gerçekleştirecektir. 
